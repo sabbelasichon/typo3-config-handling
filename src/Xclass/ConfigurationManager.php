@@ -138,7 +138,6 @@ class ConfigurationManager
         'DB',
         'SYS/caching/cacheConfigurations',
         'SYS/session',
-        'EXTENSIONS',
     ];
 
     public function __construct(
